@@ -61,6 +61,8 @@ Cada evento ya no puede pensarse como una clase aislada: se relaciona con una ag
 ### Se requiere
 Implementar correctamente en Java el diagrama de clases correspondiente, que escala el modelo del ejercicio anterior incorporando relaciones entre clases y objetos, de manera que el sistema pueda crear eventos, asignar a cada evento una sala, registrar sus actividades y la lista de alumnos inscriptos en cada actividad.
 
+![image alt](https://github.com/ezequielcalderonnet-beep/PP_TP1_51923/blob/07546f44c9ab89e62baa9742f0649bfd7bee85e5/imgejercicio2.png)
+
 Para poder consultar las inscripciones de una actividad, agregar en `Actividad` una colección `List<Inscripcion> inscripciones`.
 
 ### Resultado esperado
