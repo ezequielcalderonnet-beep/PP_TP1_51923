@@ -168,25 +168,26 @@ El proyecto sigue la estructura estándar de un proyecto Maven generado desde **
 ```text
 PP_TP1_51923/
 ├── .idea/
-├── .mvn
 ├── src/
-│   ├── main/
-│   │    └── java/
-│   │       ├── Actividad.java            
-│   │       ├── App.java                  
-│   │       ├── Charla.java               
-│   │       ├── Estudiante.java           
-│   │       ├── EventoUniversitario.java  
-│   │       ├── Inscripcion.java          
-│   │       ├── Sala.java                 
-│   │       └── Taller.java     
-│   └── resources         
-├── target/
+│   └── main/
+│        └── java/
+│           ├── Actividad.java            
+│           ├── App.java                  
+│           ├── Charla.java               
+│           ├── Estudiante.java           
+│           ├── EventoUniversitario.java  
+│           ├── Inscripcion.java          
+│           ├── Sala.java                 
+│           └── Taller.java            
+├── .gitignore
+├── Imgejercicio3.png
+├── README.md
 ├── mapa_memoria.png                
 ├── captura_consola.png                  
-├── pom.xml                              
-├── .gitignore
-└── README.md        
+├── imgejercicio1.png
+├── imgejercicio2.png                   
+├── logoutn.png    
+└── pom.xml        
   
 ```
 ---    
