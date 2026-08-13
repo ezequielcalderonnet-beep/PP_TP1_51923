@@ -85,6 +85,8 @@ Cada evento universitario incorpora actividades de distinta naturaleza. Una char
 ### Se requiere
 Implementar correctamente en Java el diagrama de clases que escala el modelo del ejercicio anterior incorporando relaciones de herencia y polimorfismo, de manera que el sistema pueda tratar diferentes tipos de actividades de manera polimórfica garantizando mejor reutilización de código y escalabilidad futura. El modelo también ilustra el uso de métodos finales.
 
+![image alt](https://github.com/ezequielcalderonnet-beep/PP_TP1_51923/blob/3b204f9d959d42fd91ec1b21fb423c244564f3ee/Imgejercicio3.png)
+
 - **Clase Abstracta:** Notar que la clase `Actividad`, que en el Ejercicio 2 era una clase concreta, debe transformarse en una clase abstracta porque ya no se instanciarán actividades genéricas, sino tipos concretos de actividad (`Charla` o `Taller`).
 - **Métodos Finales:** Notar que el método `mostrarIdentificacion()` de la clase `Actividad` se califica como `final` para que no pueda redefinirse en las subclases.
 - **Colección Polimórfica:** En la clase `EventoUniversitario` mantener la colección `List<Actividad> actividades`, pero ahora esa colección almacenará objetos de subclases concretas: `Charla` y `Taller`. En relación a esto deberá modificarse el método `crearActividad` para que reciba también, mediante un parámetro del tipo `String`, el tipo de actividad a crear: `"Charla"` o `"Taller"`.
