@@ -42,6 +42,8 @@ La universidad necesita contar con un sistema para administrar eventos simples c
 ### Se requiere
 Implementar correctamente en Java la clase que modela un evento universitario, manejando adecuadamente los niveles de encapsulamiento requeridos (con calificadores de acceso) y propiedades de cada atributo y método. La aplicación debe permitir crear eventos correctamente inicializados, copiar eventos y consultar información de clase.
 
+![image alt](https://github.com/ezequielcalderonnet-beep/PP_TP1_51923/blob/6a89f54214fc852409fb8c4bb8fe69786019cca1/imgejercicio1.png)
+
 ### Resultado esperado
 Código Java funcional ejecutable desde una clase `App` donde:
 - **a.** Se creen uno o más eventos universitarios.
