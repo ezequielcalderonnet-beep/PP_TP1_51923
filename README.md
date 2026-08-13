@@ -1,3 +1,6 @@
+
+![image alt](https://github.com/ezequielcalderonnet-beep/PP_TP1_51923/blob/9f630eb51f765a518d8d7b7265ae150bd6b79a2f/logoutn.png)
+
 # Trabajo Práctico N° 1: Programación Orientada a Objetos en Java
 
 **Materia:** Paradigmas de Programación  
@@ -191,4 +194,5 @@ PP_TP1_51923/
 ## Resultado en la consola
 
 Con los datos cargados en **App.java** al ejecutar el **"public static void main(String[] args)"** el resultado esperado seria el siguiente:
+
 ![image alt](https://github.com/ezequielcalderonnet-beep/PP_TP1_51923/blob/0ce75187a9ae67176ebc3eb68aec91951a5681ba/captura_consola.png)
